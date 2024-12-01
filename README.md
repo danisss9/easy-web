@@ -1,2 +1,2 @@
-# easy-app
-The easiest way to create reactive web applications
+# easy-web
+The easiest way to create a website
